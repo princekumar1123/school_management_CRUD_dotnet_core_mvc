@@ -1,0 +1,36 @@
+﻿@model School_Management.Models.ExamModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>ExamModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.subjectName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.subjectName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.examDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.examDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.standard)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.standard)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.subjectID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

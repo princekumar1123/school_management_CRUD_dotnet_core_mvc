@@ -1,0 +1,43 @@
+﻿@model School_Management.Models.ExamModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>ExamModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="subjectName" class="control-label"></label>
+                <input asp-for="subjectName" class="form-control" />
+                <span asp-validation-for="subjectName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="examDate" class="control-label"></label>
+                <input asp-for="examDate" class="form-control" />
+                <span asp-validation-for="examDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="standard" class="control-label"></label>
+                <input asp-for="standard" class="form-control" />
+                <span asp-validation-for="standard" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

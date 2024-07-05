@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = School_Management
+build_property.RootNamespace = School_Management
+build_property.ProjectDir = D:\PrinceRecent\InternalDotNetProjects\PracticeFilesInC#\School_Management\School_Management\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\PrinceRecent\InternalDotNetProjects\PracticeFilesInC#\School_Management\School_Management
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/ExamModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbU1vZGVsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/ExamModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbU1vZGVsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/ExamModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbU1vZGVsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/ExamModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbU1vZGVsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/ExamModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbU1vZGVsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/SchoolLoginModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sTG9naW5Nb2RlbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/SchoolLoginModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sTG9naW5Nb2RlbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/SchoolLoginModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sTG9naW5Nb2RlbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/SchoolLoginModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sTG9naW5Nb2RlbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/SchoolLoginModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sTG9naW5Nb2RlbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/SchoolRegisterModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sUmVnaXN0ZXJNb2RlbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/SchoolRegisterModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sUmVnaXN0ZXJNb2RlbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/SchoolRegisterModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sUmVnaXN0ZXJNb2RlbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/SchoolRegisterModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sUmVnaXN0ZXJNb2RlbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/SchoolRegisterModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sUmVnaXN0ZXJNb2RlbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/StudentModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudE1vZGVsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/StudentModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudE1vZGVsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/StudentModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudE1vZGVsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/StudentModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudE1vZGVsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/StudentModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudE1vZGVsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/TeacherModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1vZGVsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/TeacherModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1vZGVsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/TeacherModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1vZGVsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/TeacherModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1vZGVsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/TeacherModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1vZGVsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PrinceRecent/InternalDotNetProjects/PracticeFilesInC\#/School_Management/School_Management/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6qdkgsqbzu

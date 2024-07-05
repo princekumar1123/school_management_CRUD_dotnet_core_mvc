@@ -1,0 +1,41 @@
+﻿@model IEnumerable<School_Management.Models.SchoolLoginModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.emailID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.password)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.emailID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.password)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MyProperty">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MyProperty">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MyProperty">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
